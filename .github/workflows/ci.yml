@@ -1,4 +1,4 @@
-fname: CI
+name: CI
 
 env:
   ANDROID_BUILD_TOOLS_VERSION: "35.0.0"
